@@ -1,2 +1,2 @@
 # Python-Programming
-Python programs on Data Structures and Algorithms.
+Python programs on Data Structures and Algorithms .
