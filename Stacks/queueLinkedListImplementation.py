@@ -58,7 +58,7 @@ if __name__ == "__main__":
         print("Enter your choice: ")
         choice = int(input())
         if choice == 1:
-            value = int(input("Enter a value to insert: "))
+            value = int(input("Enter a value to insert:"))
             q.enqueue(value)
         elif choice == 2:
             d = q.dequeue()
