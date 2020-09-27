@@ -39,7 +39,7 @@ class Queue:
         
     def display(self):
         if self.isEmpty():
-            print("Queue Underflow ")
+            print("Queue Underflow")
             sys.exit(0)
         else:
             temp = self.front
