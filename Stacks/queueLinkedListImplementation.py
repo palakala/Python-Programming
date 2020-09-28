@@ -31,7 +31,7 @@ class Queue:
     
     def dequeue(self):
         if self.isEmpty():
-            print("Queue Underflow")
+            print("Queue Underflow ")
             sys.exit(0)
         d = self.front.info
         self.front = self.front.next
