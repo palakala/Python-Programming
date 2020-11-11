@@ -10,7 +10,7 @@ class Solution:
         return target
         
  """
- Problem Statement:
+ Problem Statement :
 
 Given two arrays of integers nums and index. Your task is to create target array under the following rules:
 
