@@ -19,7 +19,7 @@ Given an integer array, you need to find one continuous subarray that if you onl
 
 You need to find the shortest such subarray and output its length.
 
-Example 1:
+Example 1 :
 
 Input: [2, 6, 4, 8, 10, 9, 15] 
 
